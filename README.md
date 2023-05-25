@@ -1,2 +1,2 @@
-# python_fundamentals
-Python - funamentals projects
+# python_fundamentals_projects
+
